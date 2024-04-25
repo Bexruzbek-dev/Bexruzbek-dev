@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bexruzbek-dev
-- 👀 I’m interested Hacking
+- 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Flutter
 - ⚡ Fun fact: You are the Best!
 
